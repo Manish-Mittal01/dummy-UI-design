@@ -1,0 +1,13 @@
+.amountField {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.field > div {
+  margin-block: 12px;
+}
+
+.field > div > input {
+  height: 12px;
+}
